@@ -95,7 +95,7 @@ Scenario Outline: Test case 08
 Given user direct to the site
 When user click on Login or Register button
 And user enter valid credentials "<IR_ID>" "<PWD>" 
-#And user empty the cart  
+And user empty the cart  
 And user click on products tab
 And user click on products link
 And user add products to the cart
@@ -113,7 +113,7 @@ Examples:
 	#|HD330342|testpw  |          |TESTUSD0000047|QECTST|Welcome! SMOKE TESTTTT TESTTTT|
 	
 	
-@Reg1
+@Reg
 Scenario Outline: Test case 09
 Given user direct to the site
 When user click on Login or Register button
