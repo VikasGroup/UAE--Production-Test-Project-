@@ -23,7 +23,7 @@ public class LoginSteps {
 	@Given("^user direct to the site$")
 	public void user_direct_to_the_site() throws Throwable {
 		driver.manage().window().maximize();
-		// driver.get("https://www.qn-uae.ae/en");
+		driver.get("https://www.qn-uae.ae/en");
 		
 		//driver.get("https://store.qion-ltd.net");
 		
