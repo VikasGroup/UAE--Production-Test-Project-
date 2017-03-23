@@ -171,7 +171,7 @@ And user choose Q Account option
     |IR_ID   |PWD   |DE_OPTION|	
 	|HD812553|testpw|         |
 
-@Reg3
+@Reg
 Scenario Outline: Test case 12
 Given user direct to the site
 And user click on products tab
