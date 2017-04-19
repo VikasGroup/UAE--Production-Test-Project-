@@ -244,7 +244,7 @@ Examples:
     |CUS_ID   | 
 	|HD812553 | 
  
-@Reg
+@Reg1
 Scenario Outline: Test case 15
 Given user direct to the site
 When user click on Login or Register button
