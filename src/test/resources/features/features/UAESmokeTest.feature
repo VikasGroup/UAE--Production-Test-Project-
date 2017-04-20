@@ -90,7 +90,7 @@ Examples:
    # |HD333649|Mr   |test |vikasRC|04/10/1985|English|971000000011|osura@vikas.lk|osura@vikas.lk|Test@135|Test@135|test   |test|0000    |Welcome! TEST VIKASRC|
       	
       	
-@Reg
+@Reg8
 Scenario Outline: Test case 08
 Given user direct to the site
 When user click on Login or Register button
@@ -113,7 +113,7 @@ Examples:
 	#|HD330342|testpw  |          |TESTUSD0000047|QECTST|Welcome! SMOKE TESTTTT TESTTTT|
 	
 	
-@Reg
+@Reg8
 Scenario Outline: Test case 09
 Given user direct to the site
 When user click on Login or Register button
@@ -132,7 +132,7 @@ Examples:
     |IR_ID   |PWD      | DE_OPTION|EcardNo       |PIN   |Autologin                     |   
 	|CU567113|T@stpw120|          |TESTING0000004|PRDECT|Welcome! TESTRETAIL TESTRETAIL|
       	
-@Reg
+@Reg8
 Scenario Outline: Test case 10
 Given user direct to the site
 When user click on Login or Register button
@@ -151,7 +151,7 @@ And user choose credit card option
     |IR_ID   |PWD     |  DE_OPTION|  	
 	|HD812553|testpw  |           |
 	
-@Reg
+@Reg8
 Scenario Outline: Test case 11
 Given user direct to the site
 When user click on Login or Register button
@@ -171,7 +171,7 @@ And user choose Q Account option
     |IR_ID   |PWD   |DE_OPTION|	
 	|HD812553|testpw|         |
 
-@Reg
+@Reg8
 Scenario Outline: Test case 12
 Given user direct to the site
 And user click on products tab
@@ -202,7 +202,7 @@ Examples:
    # |HD333649|Individual|Mr   |test |vikas|04/10/1985|English|971852900000|osura@vikas.lk|osura@vikas.lk|Test@135|Test@135|test   |test|0000    |F0055698340731|QECTST|Welcome! TEST VIKAS|
     
 
-@Reg
+@Reg8
 Scenario Outline: Test case 13
 Given user direct to the site
 And user click on products tab
@@ -244,7 +244,7 @@ Examples:
     |CUS_ID   | 
 	|HD812553 | 
  
-@Reg
+@Reg8
 Scenario Outline: Test case 15
 Given user direct to the site
 When user click on Login or Register button
