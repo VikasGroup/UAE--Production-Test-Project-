@@ -257,7 +257,7 @@ Then Validate the Auto Login "<Autologin>"
 
 Examples:
     |IR_ID   |PWD     |Autologin       |
- 	|HD812554|testpw  |Welcome! RUFA SA|
+	|HD812563|testpw  |Welcome! RUFA SA|
   	
 @Reg
 Scenario Outline: Test case 16 
